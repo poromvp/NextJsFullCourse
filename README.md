@@ -1,1 +1,1 @@
-Time to cook NextJs
+Time to cook NextJs Full Course
